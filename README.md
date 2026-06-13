@@ -1,57 +1,70 @@
-# Hi, I'm Priyan Patel 👋
+<div align="center">
 
-** Physics and Computing University of Waterloo** · **Founder of [Arkin](https://arkinflow.com)** · I build tools across data, web, and AI.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e3a8a&height=190&section=header&text=Priyan%20Patel&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20%26%20Software%20Developer%20%7C%20Founder%20of%20Arkin&descAlignY=56&descSize=18" />
 
-I'm a fourth-year student at the University of Waterloo, graduating in December 2026, with two completed co-ops in data analytics and software development. I like turning messy problems into clean, useful tools — a data pipeline, a full-stack app, or a trading automation script.
+<a href="https://www.linkedin.com/in/priyan-patel-7844731b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:patelpriyan04@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://priyanpatel.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-🇺🇸 US permanent resident· 🇨🇦 Based in Waterloo, ON · Open to Fall/Winter co-op & full-time roles in data and software.
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=Data+%26+Software+Developer;Building+across+data%2C+web%2C+and+AI;Founder+of+Arkin" />
 
-### 🔭 What I'm working on
-
-- **[Arkin](https://arkinflow.com)** — a web development agency building custom sites with AI integrations for local businesses.
-- **JobFlow AI** — a full-stack, AI-powered job-application tool running on a local Ollama stack (`qwen2.5` + `nomic-embed-text`) with pgvector semantic search.
-- **Markets & automation** — trading automation experiments built on the Charles Schwab API in Python.
+</div>
 
 ---
 
-### 🛠️ Tech I work with
+### 👨‍💻 About
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- 🎓 Final-year **University of Waterloo** student, graduating **December 2026**
+- 💼 Two completed co-ops — **Data Analyst** and **Software Developer**
+- 🚀 Founder of **[Arkin](https://arkinflow.com)** — custom sites with AI integrations for local businesses
+- 🔭 Currently building **JobFlow AI** and trading automation on the Charles Schwab API
+- 🇺🇸 US permanent resident (no sponsorship required) · 🇨🇦 Based in Waterloo, ON
+- 📫 Open to **Fall/Winter co-op & full-time** roles in data and software
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,tailwind,postgres,supabase,aws,git,github&theme=dark" />
+
+<br/>
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+</div>
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **JobFlow AI** | AI-powered job-application tool that ingests postings, scores fit with semantic search, and streamlines applications. | Ollama, Neon/pgvector, Clerk |
-| **TicketIt** | iOS event & ticketing app for managing and selling event tickets. | Expo, Supabase |
-| **Schwab Trading Automation** | Automated trading system built on the Charles Schwab API. | Python |
-| **Stellar Data Analysis** | Analysis of astronomical datasets from my astrophysics coursework. | Python |
+<div align="center">
 
+<a href="https://github.com/Priyxn04/jobflow-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyxn04&repo=jobflow-ai&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Priyxn04/order-autofill"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyxn04&repo=order-autofill&theme=tokyonight&hide_border=true" /></a>
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Priyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyxn04&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyxn04&layout=compact&hide_border=true)
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Priyxn04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyxn04&layout=compact&theme=tokyonight&hide_border=true" />
 
-### 📫 Let's connect
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyan-patel-7844731b4/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:patelpriyan04@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about.me&logoColor=white)](https://priyanpatel.com)
+<img src="https://streak-stats.demolab.com?user=Priyxn04&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=120&section=footer" />

@@ -2,9 +2,9 @@
 
 **Economics & Computing @ University of Waterloo** · **Founder of [Arkin](https://arkinflow.com)** · I build tools across data, web, and AI.
 
-I'm a fourth-year BA Honours Economics student (Minor in Management Sciences & Computing) graduating December 2026, with two completed co-ops in data analytics and software development. I like turning messy problems into clean, useful tools — a data pipeline, a full-stack app, or a trading automation script.
+I'm a fourth-year student at the University of Waterloo, graduating in December 2026, with two completed co-ops in data analytics and software development. I like turning messy problems into clean, useful tools — a data pipeline, a full-stack app, or a trading automation script.
 
-🇺🇸 US permanent resident (no sponsorship required) · 🇨🇦 Based in Waterloo, ON · Open to Fall/Winter co-op & full-time roles in data and software.
+🇺🇸 US permanent resident· 🇨🇦 Based in Waterloo, ON · Open to Fall/Winter co-op & full-time roles in data and software.
 
 ---
 

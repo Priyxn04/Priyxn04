@@ -1,6 +1,6 @@
 # Hi, I'm Priyan Patel 👋
 
-**Economics & Computing @ University of Waterloo** · **Founder of [Arkin](https://arkinflow.com)** · I build tools across data, web, and AI.
+** Physics and Computing University of Waterloo** · **Founder of [Arkin](https://arkinflow.com)** · I build tools across data, web, and AI.
 
 I'm a fourth-year student at the University of Waterloo, graduating in December 2026, with two completed co-ops in data analytics and software development. I like turning messy problems into clean, useful tools — a data pipeline, a full-stack app, or a trading automation script.
 

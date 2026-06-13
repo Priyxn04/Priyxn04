@@ -40,7 +40,6 @@ I'm a fourth-year student at the University of Waterloo, graduating in December 
 | **Schwab Trading Automation** | Automated trading system built on the Charles Schwab API. | Python |
 | **Stellar Data Analysis** | Analysis of astronomical datasets from my astrophysics coursework. | Python |
 
-> Replace the project names above with links to the actual repos, e.g. `[JobFlow AI](https://github.com/Priyxn04/jobflow-ai)`, once you confirm which are public.
 
 ---
 
